@@ -1,0 +1,5 @@
+pygame==2.6.1
+matplotlib==3.9.0
+numpy==1.26.4
+pillow==10.3.0
+pytest==8.2.0
